@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 14 Nov 2026 16:44:56 +0000
+Description: Rekha, raster to SVG tracer
+Label: Rekha
+Origin: Rekha
+Suite: stable
+MD5Sum:
+ 69749e8f28c0d355ad9b704b1abee97d              181 Release
+ 0f824ab2bae4f1567acc656364021b54              835 main/binary-amd64/Packages
+ 6e1a1af76bec25826273c5ad78b38742              597 main/binary-amd64/Packages.gz
+ 35260bd8fbe4411ad1e5ecc85756d751              834 main/binary-arm64/Packages
+ ce210c66a061ad3be556339d17376fd8              597 main/binary-arm64/Packages.gz
+SHA1:
+ 886a2b3ebf36560d3707cc1c9620de0a8ae91dbb              181 Release
+ 25ddc2776c71f0fd898141a5b5f81e8477584982              835 main/binary-amd64/Packages
+ 05903e8f1ef133dde04dd4c463a827d633c96e8d              597 main/binary-amd64/Packages.gz
+ 279d6b98a50c6dfdbe15a71f717c4f738cd53ed4              834 main/binary-arm64/Packages
+ a4b1849bae7e9cca90bc6f9fe229848d1efe01c1              597 main/binary-arm64/Packages.gz
+SHA256:
+ 85a4300ea5706f319e4010ec79077dfd61d4a1d753cd0a1a7aef3183688949f5              181 Release
+ b8e6618a8cce4ddd3c0a0c353c707b1af95a9453bab3f4fa956d4f829ce9217e              835 main/binary-amd64/Packages
+ 1e07406184602116a7ed609734818cc9b9d7acdb8aac4679d2e48ef16a98886b              597 main/binary-amd64/Packages.gz
+ 7f0de29f5c12f81c92b6de059942902a41b3286e36d5e241ac9eb8557b268322              834 main/binary-arm64/Packages
+ d4c13247c3b0e93a7210b8af306bbb6b957a3208ff26ae4bcebc1570d863b70c              597 main/binary-arm64/Packages.gz
+SHA512:
+ aad380e0e40d55bea48fc1df80d2bd9772857936e355aec12738c35d21cac8caa8cd2172a5e341060504f23f3d513ca7e51e1258b7b7566228697cd3fb14f363              181 Release
+ ab04dc698b2c9cac60202ff8c6c01348d1caaec9f4f482b0d0b5633a3b119b02a806e8b635cd9b3e3fffafa25194c2d2fd120cc27ef60c784f098542f15f456a              835 main/binary-amd64/Packages
+ cd9006d51d0a2e3e9d772e76398e23f4808a2fbcc67343fd0ad3bd4b16b90ddc6743a0b7e3a3caa6ec7832fe355c316dba3f8677fefb0f647b47a37460f44056              597 main/binary-amd64/Packages.gz
+ 886b8eeece14a7f06f0edc961638e5f863a5ef1a8b3e951aa39b07b569622486a072b2caef08c1b6d52a15f5e5338df7517056848e516afd74c349e710c089ae              834 main/binary-arm64/Packages
+ ced611326d329ddaa89a3f61f80e3ca09d69bcd0c26cd180c8afb6b5e82fcc5c3531c187ee0f21aeede93ea102a070b70f83ef7bade8a3cf6ab164c7154f0264              597 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEt3voq3SBiepeeRAbjKNCGtIIfCoFAmr4kAgACgkQjKNCGtII
+fCpi0xAAiBRbJCfj/RNK74FK7Fn1DM9nsZIMt9ecFiIxdo+mz0F+vL62fxcU/PPK
+Ldp/xOjSaNiZ0wXIVFA+aFAicoReaKTKXqS/wXlMpdD22WUScZhmnMy9saztmaf0
+HrlaBpnttTn13no+SC1e51HtrpZEc3N6gA3LNHwj0yLmMmmYYKQlGb78xyYn2UzK
+fIpfKW5BKAEjjEL9RAIlhclW6d2XTS310vJtN3ius+BvO27/Oe/yrqo7pU7BKhO7
+Z9r+7slacop+iSpyLOMggnMWupQSGegIEtuC9b2nLBrHdxoHVCs7w496QwCAKSqH
+PsKohFV3aen2XJmcFm8zt22kTDjiRlQ3mgpFyhLwsJzklOKNTclQAMz+sWpwakbM
+0ToZDkbTjEM/Bu31UsQf/Hz7MKZGOBBRwIr18WzUfXIMtwd7Gsa7tNfgS2GqpLjA
+E0h3Ft/TW2eGQCKajmIYBzgLvWjrAvH9RKOqE2GLBcKncbZ95oNFj2IMH50ZXnGc
+CKj4xfymjKzD/h/XjN1pBP3bw3qMLCU7LKii8BkeKaTqRRcXwJ1dz3xrT5SqZqlK
+u1eUs16Tz8ygeH6/FPPi37BwO/LqdDEzRHdQd2ZGgSSr4SvI14uTJ6lDCfrTurOA
+98XvIY2y//W5JCoyHoOrWhc0hPs/HXwT1sQtBu2ZAzqdIiWSR9Y=
+=/LGI
+-----END PGP SIGNATURE-----

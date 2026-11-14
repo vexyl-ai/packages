@@ -1,0 +1,19 @@
+Package: rekha
+Architecture: amd64
+Version: 0.2.0
+Priority: optional
+Section: graphics
+Maintainer: Anil Mathew <vexyl-ai@users.noreply.github.com>
+Installed-Size: 10425
+Filename: pool/main/r/rekha/rekha_0.2.0_linux_amd64.deb
+Size: 4612072
+MD5sum: aace5e48b4edcb1c2ff2ca8ee77d52f0
+SHA1: 972c4e19a4876379ed9eec230fc37ba7b5a39b56
+SHA256: 0d6583a1b80b774609e0a88855ee0ae10198c24d930a85c15ebfc104c4173310
+SHA512: f6542e8f142102d5d143deb9fac0d29cbe0b56b159cb55bf162e5936154d5538b93fafea543646a8e461a96d8d4f9e6f9d25c26a67e440d1a3575eb057888e97
+Homepage: https://vexyl-ai.github.io/rekha/
+Description: Raster to SVG tracer with gradient fills.
+ Traces PNG, JPEG and GIF logos, icons and artwork into compact SVG,
+ fitting shading as gradient fills. Ships the rekha command and the
+ rekha-serve HTTP service. Pure Go, no runtime dependencies.
+

@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rekha package repositories</title>
+<meta name="description" content="apt and dnf repositories for Rekha, the raster to SVG tracer. Add once, install and upgrade with the system package manager.">
+<link rel="canonical" href="https://vexyl-ai.github.io/packages/">
+<style>body{font:16px/1.5 system-ui,sans-serif;max-width:72ch;margin:40px auto;padding:0 20px;color:#1C2230}pre{background:#F2F3F5;padding:12px 16px;overflow-x:auto;border-radius:6px}a{color:#014AED}</style>
+</head>
+<body>
+<h1>Rekha package repositories</h1>
+<p>Signed apt and dnf repositories for <a href="https://vexyl-ai.github.io/rekha/">Rekha</a>, the raster to SVG tracer. Each holds the <code>rekha</code> command and the <code>rekha-serve</code> HTTP service for amd64 and arm64. Key fingerprint: <code>B77BE8AB748189EA5E79101B8CA3421AD2087C2A</code>.</p>
+<h2>Debian, Ubuntu</h2>
+<pre>sudo install -m 0755 -d /etc/apt/keyrings
+curl -fsSL https://vexyl-ai.github.io/packages/gpg.key | sudo tee /etc/apt/keyrings/vexyl-ai.asc &gt; /dev/null
+echo "deb [signed-by=/etc/apt/keyrings/vexyl-ai.asc] https://vexyl-ai.github.io/packages/apt stable main" | sudo tee /etc/apt/sources.list.d/vexyl-ai.list
+sudo apt update &amp;&amp; sudo apt install rekha</pre>
+<h2>Fedora, RHEL, openSUSE</h2>
+<pre>sudo curl -fsSL https://vexyl-ai.github.io/packages/rpm/vexyl-ai.repo -o /etc/yum.repos.d/vexyl-ai.repo
+sudo dnf install rekha</pre>
+<p>Alpine and Arch packages, and plain archives, are on the <a href="https://github.com/vexyl-ai/rekha/releases/latest">releases page</a>. Rebuilt on every release by <a href="https://github.com/vexyl-ai/rekha/blob/main/.github/workflows/packages.yml">packages.yml</a>.</p>
+</body>
+</html>
