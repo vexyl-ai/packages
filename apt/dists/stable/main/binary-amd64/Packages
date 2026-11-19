@@ -1,24 +1,5 @@
 Package: rekha
 Architecture: amd64
-Version: 0.2.0
-Priority: optional
-Section: graphics
-Maintainer: Anil Mathew <vexyl-ai@users.noreply.github.com>
-Installed-Size: 10425
-Filename: pool/main/r/rekha/rekha_0.2.0_linux_amd64.deb
-Size: 4612072
-MD5sum: aace5e48b4edcb1c2ff2ca8ee77d52f0
-SHA1: 972c4e19a4876379ed9eec230fc37ba7b5a39b56
-SHA256: 0d6583a1b80b774609e0a88855ee0ae10198c24d930a85c15ebfc104c4173310
-SHA512: f6542e8f142102d5d143deb9fac0d29cbe0b56b159cb55bf162e5936154d5538b93fafea543646a8e461a96d8d4f9e6f9d25c26a67e440d1a3575eb057888e97
-Homepage: https://vexyl-ai.github.io/rekha/
-Description: Raster to SVG tracer with gradient fills.
- Traces PNG, JPEG and GIF logos, icons and artwork into compact SVG,
- fitting shading as gradient fills. Ships the rekha command and the
- rekha-serve HTTP service. Pure Go, no runtime dependencies.
-
-Package: rekha
-Architecture: amd64
 Version: 0.2.1
 Priority: optional
 Section: graphics
@@ -49,6 +30,25 @@ MD5sum: d61be50cbaca185d703d020c8ef92e03
 SHA1: 240afb37fc2e94bde6ae48dafc943250691a920f
 SHA256: 3c7ca55b61fba7eba1ff4b1e43acc9a954647cb8672cfede90fcddd58dcbcbd9
 SHA512: 371f184cb0199c290c00a55862aea7afdfb050fdb86764aac506b56bc94c7e110cd4df6643a566f8aed01a8ed9b99f97b7ff17ae718d42a0fd5361d0299f80c3
+Homepage: https://vexyl-ai.github.io/rekha/
+Description: Raster to SVG tracer with gradient fills.
+ Traces PNG, JPEG and GIF logos, icons and artwork into compact SVG,
+ fitting shading as gradient fills. Ships the rekha command and the
+ rekha-serve HTTP service. Pure Go, no runtime dependencies.
+
+Package: rekha
+Architecture: amd64
+Version: 0.2.3
+Priority: optional
+Section: graphics
+Maintainer: Anil Mathew <vexyl-ai@users.noreply.github.com>
+Installed-Size: 10497
+Filename: pool/main/r/rekha/rekha_0.2.3_linux_amd64.deb
+Size: 4640762
+MD5sum: edefd27c75b394068887b53394028cac
+SHA1: c8cd02b72019929131fef8f0fde797152a83dc2d
+SHA256: 422df40c700d777c432b91f62493fdd8f432cab8569d02e4805c3a9b85e80bbb
+SHA512: bdaac733d6a49efba69852f4d318648bae167bf79e381f76a70065839c82e31113c2c3bb55a2ad2d5eea22eadc0152daab6614f40edc5604ea9a327865aa43ba
 Homepage: https://vexyl-ai.github.io/rekha/
 Description: Raster to SVG tracer with gradient fills.
  Traces PNG, JPEG and GIF logos, icons and artwork into compact SVG,
